@@ -14,7 +14,7 @@
   <img align="right" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="400px">
 </picture>
 
-- 🎓 I’m a **Computer Science Student**  
+- 🎓 I’m a **Computer Science graduate **  
 - 💻 Passionate about **Software Development** & building real-world projects  
 - 🚀 Always exploring new technologies and improving my skills  
 - 📫 Reach me at **ybdyr941@gmail.com**  
