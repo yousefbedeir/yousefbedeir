@@ -14,10 +14,11 @@
   <img align="right" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="400px">
 </picture>
 
-- 🎓 I’m a **Computer Science graduate **  
+- 🎓 I’m a **Computer Science graduate**  
 - 💻 Passionate about **Software Development** & building real-world projects  
 - 🚀 Always exploring new technologies and improving my skills  
-- 📫 Reach me at **ybdyr941@gmail.com**  
+- 📫 Reach me at **yousefbedeir11@gmail.com
+**  
 - 📱 WhatsApp: **01124732476**  
 - 🔗 Check out my **LinkedIn Profile**  
   [here](https://www.linkedin.com/in/yousef-bedeir-89343232b)
